@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitInfo</string>
+    <string name="title_noticias">Notícias</string>
+    <string name="title_info">Informações</string>
+    <string name="title_cota">Cotação</string>
+    <string name="moeda">Moeda:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valorrs">Valor em Reais</string>
+    <string name="valorus">Valor em Dólar</string>
+    <string name="txt_iniciante"><b><big>Bitcoin:</big></b>\nBitcoin é como uma moeda de video game...</string>
+    <string name="txt_media"><b><big>Bitcoin:</big></b>\nBitcoin é uma moeda digital baseada em criptografia...</string>
+    <string name="txt_avancada"><b><big>Bitcoin:</big></b>\nBitcoin é uma criptomoeda...</string>
+</resources>
